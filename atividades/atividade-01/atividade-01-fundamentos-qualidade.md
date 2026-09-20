@@ -61,6 +61,7 @@ Gemini
 
 **Como foi utilizada:**  
 Utilizada como apoio na estruturação do documento Markdown e para a formulação de ideias e refinamento da tabela de características de qualidade (ISO 25000).
+Utilizada, também, para auxílio na formatação na linguagem de marcação "Markdown".
 
 **Como as respostas foram verificadas:**  
 Testei manualmente a aplicação LocalEats, validei as evidências coletadas e revisei os conceitos teóricos de qualidade de software do material de aula.
