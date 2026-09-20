@@ -50,6 +50,7 @@ Gemini
 
 **Como foi utilizada:**
 Utilizada para melhorar estruturas de texto, elaboração de ideias, correções ortográficas e matriz de responsabilidades.
+Utilizada, também, para auxílio na formatação na linguagem de marcação "Markdown".
 
 **Como as respostas foram verificadas:**
 Todas foram revisadas e refeitas de acordo com a vontade do grupo e o que foi pedido nas instruções do trabalho.
