@@ -172,6 +172,7 @@ Gemini
 
 **Como foi utilizada:**
 Utilizada como apoio no processo de brainstorming para mapeamento dos riscos operacionais na busca por localização e na elaboração das classes lógicas de particionamento.
+Utilizada, também, para auxílio na formatação na linguagem de marcação "Markdown".
 
 **Uma sugestão que precisou ser alterada ou rejeitada:**
 A IA inicialmente sugeriu usar a barra de pesquisa para testar categorias de "Culinária" (seguindo o placeholder visual da interface). A sugestão foi rejeitada porque, ao explorar a aplicação manualmente, percebi que a regra de negócio do código restringe a barra de pesquisa exclusivamente à localização do restaurante, enquanto a culinária é filtrada através dos botões.
